@@ -1,29 +1,29 @@
-- 👋 Hi, I’m @me26ce
-- 👀 I’m interested in tecnology and computer science. My goal is to improve myself in cyber security by improving my coding skills.
+- 👋 Hi, I’m **@me26ce**
+- 👀 I’m interested in tecnology and computer science. My goal is to improve myself in *cyber security* by improving my *coding skills*.
 
 - 📖 Step by step guide to becoming a developer https://roadmap.sh
 
-- 💞️ Syber Security guide: https://github.com/LuNiZz/siber-guvenlik-sss
-- ⚡ For personel security: https://github.com/LuNiZz/personal-security-checklist
+- 💞️ *Syber Security* guide: https://github.com/LuNiZz/siber-guvenlik-sss
+- ⚡ For *personel security*: https://github.com/LuNiZz/personal-security-checklist
  
-- 🚀 OWASP TOP10: Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks https://tryhackme.com/room/owasptop10
-- 🎯 Syber Mentor also good guide: https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
+- 🚀 **OWASP** TOP10: Learn about and exploit each of the OWASP Top 10 vulnerabilities; the 10 most critical web security risks https://tryhackme.com/room/owasptop10
+- 🎯 *Syber Mentor* also good guide: https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
 - 🙏🏻 I want to say thanks <a href="https://github.com/LuNiZz">"LuNiZz" Can Değer</a> and <a href="https://github.com/hakanyalcinkaya">"Kodluyoruz" Hakan Yalçınkaya</a>
  
 - 🦾 Useful platforms that I use:
--   https://app.patika.dev/
--   https://stackoverflow.com/
--   https://www.hackerrank.com/
--   https://www.codility.com/
--   https://projecteuler.net/
--   https://www.codewars.com/
--   https://leetcode.com/
--   https://edabit.com/
--   https://replit.com/
--   https://codepen.io/
--   https://exercism.org/
--   https://coderbyte.com/
--   https://www.freecodecamp.org/
+-   [Patika](https://app.patika.dev/)
+-   [Stackoverflow](https://stackoverflow.com/)
+-   [HackerRank](https://www.hackerrank.com/)
+-   [Codility](https://www.codility.com/)
+-   [ProjectEuler](https://projecteuler.net/)
+-   [CodeWars](https://www.codewars.com/)
+-   [LeetCode](https://leetcode.com/)
+-   [Edabit](https://edabit.com/)
+-   [Replit](https://replit.com/)
+-   [Codepen](https://codepen.io/)
+-   [Exercism](https://exercism.org/)
+-   [CoderByte](https://coderbyte.com/)
+-   [FreeCodeCamp](https://www.freecodecamp.org/)
 
 - Syber Security and Bug Bounty:
 -   https://portswigger.net/web-security
@@ -44,6 +44,9 @@
          <ul>⭐https://tryhackme.com/room/dvwa</ul><br>
          <ul>⭐https://tryhackme.com/room/jack</ul><br></li>
 
+---
+         
+- What is [**Markdown**](https://commonmark.org/help/)?
 
 
 
