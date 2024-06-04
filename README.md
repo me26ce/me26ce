@@ -33,20 +33,20 @@
 -   https://www.hacker101.com/
 -   https://www.bugcrowd.com/hackers/bugcrowd-university/
 -   https://www.hackerone.com/
--   https://tryhackme.com/<br><li>
-
-  Useful rooms from tryhackme:
-         <ul>⭐https://tryhackme.com/room/owasptop10</ul><br>
-         <ul>⭐https://tryhackme.com/room/rpburpsuite</ul><br>
-         <ul>⭐https://tryhackme.com/room/learnowaspzap</ul><br>
-         <ul>⭐https://tryhackme.com/room/webfundamentals</ul><br>
+-   https://tryhackme.com/<br>
+-   Useful rooms from tryhackme:
+         <ul>⭐https://tryhackme.com/room/owasptop10</ul>
+         <ul>⭐https://tryhackme.com/room/rpburpsuite</ul>
+         <ul>⭐https://tryhackme.com/room/learnowaspzap</ul>
+         <ul>⭐https://tryhackme.com/room/webfundamentals</ul>
          <ul>⭐https://tryhackme.com/room/webappsec101</ul>
-           ❓ Test yourself =><br><br>
-         <ul>⭐https://tryhackme.com/room/vulnversity</ul><br>
-         <ul>⭐https://tryhackme.com/room/juiceshop</ul><br>
-         <ul>⭐https://tryhackme.com/room/rpwebscanning</ul><br>
-         <ul>⭐https://tryhackme.com/room/dvwa</ul><br>
-         <ul>⭐https://tryhackme.com/room/jack</ul><br></li>
+
+  ❓ Test yourself =><br>
+         <ul>⭐https://tryhackme.com/room/vulnversity</ul>
+         <ul>⭐https://tryhackme.com/room/juiceshop</ul>
+         <ul>⭐https://tryhackme.com/room/rpwebscanning</ul>
+         <ul>⭐https://tryhackme.com/room/dvwa</ul>
+         <ul>⭐https://tryhackme.com/room/jack</ul>
 
 ---
          
